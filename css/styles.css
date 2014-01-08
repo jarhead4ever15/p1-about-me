@@ -6,3 +6,22 @@ body {
 img {
 	width: 300px;
 }
+#leftcol {
+	background: red;
+}
+
+#rightcol {
+	background: blue;
+}
+
+.round {
+	-webkit-border-radius: ;
+	-moz-border-radius: ;
+	border-radius: 20px;
+}
+
+.shadow {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: 10px 10px 10px black;
+}
